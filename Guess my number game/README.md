@@ -1,4 +1,0 @@
--------------------Guess My Number-----------------------
---This a number guessing game where a user is prompt to guess a number between a given range
---Depending on the user's guess the game notifies if the given value is greater or less than the correct number
---The screen turns green for a correct guess
