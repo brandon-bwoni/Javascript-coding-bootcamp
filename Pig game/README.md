@@ -1,4 +1,0 @@
--------------------Pig Game---------------------
---This is a simple pig game where the player rows a dice
---If the dice roll is greater that 1 then the player continues, else the players switch
---The rolled numbers are added to the total score; the first to reach the stated high score WINS
