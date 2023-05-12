@@ -1,5 +1,0 @@
---------------------Mapty-------------------
---It is a web fitness app for cycling and running
---It makes use of the leaflet API to provide the map and coordinates of the user based on geolocation
---The app can calculate distance metrics, mark the user's routes, and record user's previous routes.
---More features will be added
